@@ -1,0 +1,30 @@
+html {
+  font-size: 63%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+  color: inherit;
+}
+
+.tetris_container {
+  display: flex;
+}
+
+.block {
+  background-color: black;
+  height: 50px;
+  width: 50px;
+}
+
+/*# sourceMappingURL=index.css.map */
